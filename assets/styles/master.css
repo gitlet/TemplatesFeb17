@@ -1,0 +1,34 @@
+* {
+  margin: auto;
+  padding: 0; }
+
+body {
+  font-family: "Varela Round", sans-serif; }
+  body header {
+    background: #10b5b5;
+    padding: 20px 40px;
+    text-align: center;
+    color: #060e21;
+    position: absolute;
+    height: 240px;
+    width: 240px;
+    cursor: pointer; }
+    body header h1 {
+      padding-top: 35%; }
+  body nav {
+    position: absolute;
+    top: 0;
+    right: 0; }
+    body nav .menu {
+      list-style-type: none;
+      text-align: center; }
+      body nav .menu li {
+        display: inline-block;
+        background: #ffdce2;
+        margin: 10px;
+        padding: 10px; }
+        body nav .menu li a {
+          text-decoration: none;
+          color: #060e21; }
+
+/*# sourceMappingURL=master.css.map */
